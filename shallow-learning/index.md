@@ -11,7 +11,7 @@ In graph-based deep learning, low-dimensional vector representations of nodes in
 
 In graph representation learning, we leverage the encoder-decoder framework to facilitate a comprehensive understanding of the graph structure. It is achieved in two crucial steps. Firstly, an encoder model is employed to map each node in the graph to a compact, low-dimensional vector, known as embedding. These embeddings are then passed as input to a decoder model that aims to reconstruct the local neighborhood information for each node in the original graph. By doing so, we obtain a rich and structured graph representation conducive to further analysis. The encoder-decoder framework is depicted in Figure 1.
 
-![Encoder-Decoder framework](enc-dec.png)
+![Encoder-Decoder framework](../assets/img/enc-dec.png)
 
 - **Encoder:**
 
