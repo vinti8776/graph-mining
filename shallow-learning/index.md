@@ -11,15 +11,13 @@ In graph-based deep learning, low-dimensional vector representations of nodes in
 
 In graph representation learning, we leverage the encoder-decoder framework to facilitate a comprehensive understanding of the graph structure. It is achieved in two crucial steps. Firstly, an encoder model is employed to map each node in the graph to a compact, low-dimensional vector, known as embedding. These embeddings are then passed as input to a decoder model that aims to reconstruct the local neighborhood information for each node in the original graph. By doing so, we obtain a rich and structured graph representation conducive to further analysis. The encoder-decoder framework is depicted in Figure 1.
 
-![Encoder-Decoder framework](/assets/img/enc-dec.png)
+![Encoder-Decoder framework](/graph-mining/assets/img/enc-dec.png)
 
 - **Encoder:**
 
   The encoder can be interpreted as a mapping function that transforms node $v \in V$ in the graph into a vector representation $Z_v \in \mathbb{R} ^d$ where $Z_v$ represents the embedding for node $v \in V$. The encoder takes node IDs as input and generates node embeddings corresponding to the node. Hence,
 
-\[
-\text{ENC: } V \to \mathbb{R}^d
-\]
+ENC: $$ V \to \mathbb{R}^d $$
 
   The encoder typically utilizes a shallow embedding approach, performing an embedding lookup based on the node ID. Shallow embedding approaches are where an encoder that maps each node to a unique embedding is just a simple lookup function without considering any node features. This can be stated as:
 
