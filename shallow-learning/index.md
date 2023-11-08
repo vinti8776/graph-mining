@@ -15,15 +15,11 @@ In graph representation learning, we leverage the encoder-decoder framework to f
 
 - **Encoder:**
 
-  The encoder can be interpreted as a mapping function that transforms node $v \in V$ in the graph into a vector representation $Z_v \in \mathbb{R} ^d$ where $Z_v$ represents the embedding for node $v \in V$. The encoder takes node IDs as input and generates node embeddings corresponding to the node. Hence,
-
+  The encoder can be interpreted as a mapping function that transforms node $$ v \in V $$ in the graph into a vector representation $$ Z_v \in \mathbb{R}^d $$ where $$ Z_v $$ represents the embedding for node $$ v \in V $$. The encoder takes node IDs as input and generates node embeddings corresponding to the node. Hence,
 ENC: $$ V \to \mathbb{R}^d $$
-
-  The encoder typically utilizes a shallow embedding approach, performing an embedding lookup based on the node ID. Shallow embedding approaches are where an encoder that maps each node to a unique embedding is just a simple lookup function without considering any node features. This can be stated as:
-
-  ![Shallow embedding equation](https://render.githubusercontent.com/render/math?math=ENC(v)%20%3D%20Z%5Bv%5D)
-
-  where matrix \( Z \in \mathbb{R} ^{\left| V \right| \times d} \) contains \( d \)-dimensional embedding vectors for all nodes in the graph and \( Z[v] \) is a row in matrix \( Z \) corresponding to node \( v \).
+The encoder typically utilizes a shallow embedding approach, performing an embedding lookup based on the node ID. Shallow embedding approaches are where an encoder that maps each node to a unique embedding is just a simple lookup function without considering any node features. This can be stated as:
+$$ ENC[v] = Z[v] $$
+where matrix $$ Z \in \mathbb{R} ^{\left| V \right| \times d} $$ is a matrix that contains $$ d $$-dimensional embedding vectors for all nodes in the graph and $$ Z[v] $$ is a row in matrix $$ Z $$ corresponding to node $$ v $$.
 
 - **Decoder:**
 
