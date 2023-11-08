@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Introduction
+title: Encoder-Decoder
 ---
 - introduction to encoder and decoder
