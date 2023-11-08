@@ -38,9 +38,9 @@ A table of shallow encoding-based Encoder-Decoder approaches is provided below i
 
   | Method            | Decoder                      | Loss function                                    |
   |-------------------|------------------------------|--------------------------------------------------|
-  | Laplacian Eigenmaps | $$ ||z_u - z_v||_2^2 $$       | $$ DEC(z_u, z_v) . S[u,v] $$                      |
-  | Graph Factorization | $$ z_u^T z_v $$               | $$ ||DEC(z_u, z_v) - S[u,v]||_2^2 $$          |
-  | GraRep            | $$ z_u^T z_v $$                | $$ ||DEC(z_u, z_v) - S[u,v]||_2^2 $$             |
+  | Laplacian Eigenmaps | $$ \|\|z_u - z_v\|\|_2^2 $$       | $$ DEC(z_u, z_v) . S[u,v] $$                      |
+  | Graph Factorization | $$ z_u^T z_v $$               | $$ \|\|DEC(z_u, z_v) - S[u,v]\|\|_2^2 $$          |
+  | GraRep            | $$ z_u^T z_v $$                | $$ \|\|DEC(z_u, z_v) - S[u,v]\|\|_2^2 $$             |
   | DeepWalk          | $$ e^{z_u^T.z_v} / \sum_{k\in V} e^{z_u^T.z_k} $$ | $$ -S[u,v]. \log(DEC(z_u, z_v)) $$       |
   | node2vec          | $$ e^{z_u^T.z_v} / \sum_{k\in V} e^{z_u^T.z_k} $$ | $$ -S[u,v]. \log(DEC(z_u, z_v)) $$       |
 
