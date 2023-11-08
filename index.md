@@ -11,17 +11,14 @@ The graph mining course starts with describing fundamentals of graph theory to t
    - Similarity graphs
    - Eigenvalues & eigenvectors
    - Adjacency, diagonal, laplacian
-- What are graphs? Different types?  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
-- Similarity graphs  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html)[Reference](https://vinti8776.github.io/graph-mining/)
-- Eigenvalues & eigenvectors   [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
-- Adjacency, diagonal, laplacian   [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
-- Laplacian eigenmap, dimensionality reduction, clustering  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
 - Pagerank, HITS, Spectral clustering  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
-- Link analysis  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
-- Betweenness centrality  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
-- Eigenvector centrality  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
-- degree  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
+- Link analysis: Degree,Betweenness, Eigenvector centrality  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
 - Neuman kernels  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
+
+
+
+
+
 
 <!--
 <span class="newthought">These notes</span> form a concise introductory course on probabilistic graphical models{% include sidenote.html id="note-pgm" note="Probabilistic graphical models are a subfield of machine learning that studies how to describe and reason about the world in terms of probabilities." %}.
