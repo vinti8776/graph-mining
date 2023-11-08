@@ -17,7 +17,9 @@ In graph representation learning, we leverage the encoder-decoder framework to f
 
   The encoder can be interpreted as a mapping function that transforms node $v \in V$ in the graph into a vector representation $Z_v \in \mathbb{R} ^d$ where $Z_v$ represents the embedding for node $v \in V$. The encoder takes node IDs as input and generates node embeddings corresponding to the node. Hence,
 
-  ![Encoder equation](https://render.githubusercontent.com/render/math?math=ENC%3A%20V%20%5Cto%20%5Cmathbb%7BR%7D%20%5Ed)
+\[
+\text{ENC: } V \to \mathbb{R}^d
+\]
 
   The encoder typically utilizes a shallow embedding approach, performing an embedding lookup based on the node ID. Shallow embedding approaches are where an encoder that maps each node to a unique embedding is just a simple lookup function without considering any node features. This can be stated as:
 
