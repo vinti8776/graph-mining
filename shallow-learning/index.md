@@ -73,9 +73,8 @@ The first step is to perform a random traversal of graph and generate random wal
 
 1. Let $$ G(V, E) $$ be a connected graph, and the start node for a random walk is node $$ v_0 \in V $$.
 2. Assume that at the $$ t $$ -th step of random walk, we are at node $$ v_t $$.
-3.  Then, the next node in random walk will be chosen based on the probability: <br /> $$ p(v_{t+1}|v_t) = \begin{Bmatrix}
-            \frac{1}{d(v_t)} , \quad if \quad v_{t+1} \in N(v_t)\\
-            0 , \qquad \qquad otherwise $$ <br />
+3.  Then, the next node in random walk will be chosen based on the probability: <br /> $$ p(v_{t+1}|v_t) = $$ \frac{1}{d(v_t)} , \quad if \quad v_{t+1} \in N(v_t)\\
+   0 , \qquad \qquad otherwise $$ $$ <br />
     where $$ d(v_t) $$ is degree of node $$ v_t $$ and $$ N(v_t) $$ denotes the set of neighbour nodes of $$ v_t $$. In other words, during a random walk, the upcoming nodes are chosen randomly from the current node's neighbours, and each neighbour has an equal probability of being selected.
 4. To generate random walks that can capture the information about the entire graph, each node is considered the start node for the $$ k $$ number of random walks. This results in $$ (N.k) $$ random walks in total, where $$ N $$ is number of nodes in graph. Moreover, every random walk is carried out for a predetermined length, $$ l $$.
 
