@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Encoder-decoder
+title: Topics
 ---
 
-# Topics
 - Introduction to graphs using networkx, eignevectors/eigenvalues computation
 - Graph laplacian and connected components
 - Pagerank and teleportation
