@@ -11,5 +11,5 @@ title: Topics
 - Node class prediction using label spreading <a href="./l6.pdf" target="_blank">Lab 6</a> [Solution](https://colab.research.google.com/drive/1XZZCmjVUX1rV00V9G6Yc9Ul9rXDFCT1Y)
 - Node class prediction using label propagation <a href="./l7.pdf" target="_blank">Lab 7</a> [Solution](https://colab.research.google.com/drive/15n1PZslwjG7UwNHJa0r1uYOy-U4SFIPy)
 - Spectral vs Girvan-Newman Clustering [Lab8](https://colab.research.google.com/drive/1hrZLmyc6FFP8_MAycSIs2BId3djmqM4P)
-- Feature learning with Laplacian Eigenmap [Lab9}(https://colab.research.google.com/drive/1Zs-XqKEpVnZTIqEl6YJZ5rfwnzbHmWYh) [Solution](https://colab.research.google.com/drive/1z8i7trlTlQp4YCLPfDeljtoEoj1vZANT)
+- Feature learning with Laplacian Eigenmap [Lab9](https://colab.research.google.com/drive/1Zs-XqKEpVnZTIqEl6YJZ5rfwnzbHmWYh) [Solution](https://colab.research.google.com/drive/1z8i7trlTlQp4YCLPfDeljtoEoj1vZANT)
 - Lab 10 <a href="./l10.pdf" target="_blank">Lab 10</a> [Solution](https://colab.research.google.com/drive/1ucLN3ba90ouIS6lY9KbVaiz6FaTP4QzM)
