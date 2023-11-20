@@ -4,16 +4,16 @@ title: Content
 ---
 
 The graph mining course starts with describing fundamentals of graph theory to the users along with demonstrations using tiny examples (in python). Slowly it enters into algorithm designs based on various graph heuristics and network principles. The next level of the course explains how machine learning models interpret/represent graphs when provided as input in adjacency and what patterns/knowledge they can infer from them . The end part of the course focuses on explaining [graph convolutional networks](https://tkipf.github.io/graph-convolutional-networks/), a popular deep learning architecture used in multiple domains e.g. NLP, computer vision, biomedical and many more to solve prediction and classification tasks.
-- Introduction to graph mining   [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
-- Cheatsheet on networkx   [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
-- Graph mining: preliminaries  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
+- Introduction to graph mining   [Slides](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Cheatsheet on networkx   [Slides](https://vinti8776.github.io/graph-mining/)  [Reference](https://vinti8776.github.io/graph-mining/)
+- Graph mining: preliminaries  [Slides](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
    - What are graphs? Different types?
    - Similarity graphs
    - Eigenvalues & eigenvectors
    - Adjacency, diagonal, laplacian
-- Pagerank, HITS, Spectral clustering  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
-- Link analysis: Degree,Betweenness, Eigenvector centrality  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
-- Neuman kernels  [Slides](https://vinti8776.github.io/graph-mining/) [Code](https://vinti8776.github.io/labs/lab/index.html) [Reference](https://vinti8776.github.io/graph-mining/)
+- Pagerank, HITS, Spectral clustering  [Slides](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Link analysis: Degree,Betweenness, Eigenvector centrality  [Slides](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
+- Neuman kernels  [Slides](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
 - [Encoder-decoder](https://vinti8776.github.io/graph-mining/shallow-learning/)
 - Loss functions [notes]
 
