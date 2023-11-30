@@ -15,7 +15,8 @@ The graph mining course starts with describing fundamentals of graph theory to t
 - Link analysis: Degree,Betweenness, Eigenvector centrality  [Slides](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
 - Neuman kernels  [Slides](https://vinti8776.github.io/graph-mining/) [Reference](https://vinti8776.github.io/graph-mining/)
 - [Encoder-decoder](https://vinti8776.github.io/graph-mining/shallow-learning/)
-- Loss functions [notes]
+- Loss functions
+- Performance metrics [Reference](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f#:~:text=The%20macro%2Daveraged%20F1%20score,regardless%20of%20their%20support%20values.)
 
 
 
