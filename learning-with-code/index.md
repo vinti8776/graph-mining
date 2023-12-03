@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Topics
+title: Programming Exercises
 ---
 
 - Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./l1.pdf" target="_blank">Lab 1</a> [Solution](https://colab.research.google.com/drive/1u0D63QsAp1eq8OdvhYxmzHLx8qGwq67b)
