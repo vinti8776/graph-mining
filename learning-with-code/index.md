@@ -11,5 +11,5 @@ title: Programming Exercises
 6. Node class prediction using label spreading <a href="./l6.pdf" target="_blank">Lab sheet</a>, [Code](https://colab.research.google.com/drive/1XZZCmjVUX1rV00V9G6Yc9Ul9rXDFCT1Y)
 7. Node class prediction using label propagation <a href="./l7.pdf" target="_blank">Lab sheet</a>, [Code](https://colab.research.google.com/drive/15n1PZslwjG7UwNHJa0r1uYOy-U4SFIPy)
 8. Spectral vs Girvan Newman Clustering [Code](https://drive.google.com/file/d/1BDQAzGhpMiD-tmhYE0x2BJwuTxv5gnhq/view?usp=drive_link)
-10. Feature learning with Laplacian Eigenmap [Lab sheet](https://colab.research.google.com/drive/1Zs-XqKEpVnZTIqEl6YJZ5rfwnzbHmWYh) [Code](https://colab.research.google.com/drive/1z8i7trlTlQp4YCLPfDeljtoEoj1vZANT)
-11. Multi-relational graph encoder-decoder <a href="./l10.pdf" target="_blank">Lab sheet</a> [Code](https://colab.research.google.com/drive/1ucLN3ba90ouIS6lY9KbVaiz6FaTP4QzM)
+10. Feature learning with Laplacian Eigenmap [Code](https://colab.research.google.com/drive/1z8i7trlTlQp4YCLPfDeljtoEoj1vZANT)
+11. Multi-relational graph encoder-decoder <a href="./l10.pdf" target="_blank">Lab sheet</a>, [Code](https://colab.research.google.com/drive/1ucLN3ba90ouIS6lY9KbVaiz6FaTP4QzM)
