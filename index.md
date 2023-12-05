@@ -18,7 +18,7 @@ The graph mining course starts with describing fundamentals of graph theory to t
 - Loss functions
 - Performance metrics [Reference](https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f#:~:text=The%20macro%2Daveraged%20F1%20score,regardless%20of%20their%20support%20values.)
 
-If you wish, we are happy to receive contributions from past and ongoing registered class students to make these notes better. Contact at [Email](mailto:vinti.agarwal@pilani.bits-pilani.ac.in)
+If you wish, we are happy to receive contributions from past and ongoing registered class students to make these notes better. Contact at [vinti.agarwal@pilani.bits-pilani.ac.in](mailto:vinti.agarwal@pilani.bits-pilani.ac.in)
 
 
 
