@@ -4,7 +4,7 @@ title: Programming Exercises
 ---
 
 1. Introduction to python, numpy and pandas (Basic operations)  [Code](https://colab.research.google.com/drive/16ox0uKrTIH8nPzlRiW38VZBcKljgbRSm?usp=drive_link)
-2. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./Graph Mining CSF425-Lab 2.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1RxYVackN06v3grIfimR-lynmg465cRBh?usp=drive_link)
+2. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./learning-with-code/Graph Mining CSF426-Lab 2.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1RxYVackN06v3grIfimR-lynmg465cRBh?usp=drive_link)
 <!--
 4. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./l1.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1u0D63QsAp1eq8OdvhYxmzHLx8qGwq67b)
 5. Graph laplacian and connected components <a href="./l2.pdf" target="_blank">Lab sheet</a>, [Code](https://colab.research.google.com/drive/1pt1MbCUynFPaXQ4HuzU45510BJB_F7_v)
