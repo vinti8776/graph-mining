@@ -9,8 +9,8 @@ title: Programming Exercises
 
 
 
-
-<!--4. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./l1.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1u0D63QsAp1eq8OdvhYxmzHLx8qGwq67b)
+<!--
+4. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./l1.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1u0D63QsAp1eq8OdvhYxmzHLx8qGwq67b)
 5. Graph laplacian and connected components <a href="./l2.pdf" target="_blank">Lab sheet</a>, [Code](https://colab.research.google.com/drive/1pt1MbCUynFPaXQ4HuzU45510BJB_F7_v)
 6. Pagerank and teleportation <a href="./l3.pdf" target="_blank">Lab sheet</a>, [Code](https://colab.research.google.com/drive/1KIvKkA4m1yZXdV3szFI-mx2S2mc5mmGK)
 7. Non-linear data generation <a href="./l4.pdf" target="_blank">Lab sheet</a>, [Code](https://colab.research.google.com/drive/1Xkx_Tgh4yhHuKc44U6p5oln7F80Cglh9)
