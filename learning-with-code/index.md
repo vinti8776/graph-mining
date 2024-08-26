@@ -5,6 +5,7 @@ title: Programming Exercises
 
 1. Introduction to python, numpy and pandas (Basic operations)  [Code](https://colab.research.google.com/drive/16ox0uKrTIH8nPzlRiW38VZBcKljgbRSm?usp=drive_link)
 2. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./Graph Mining CSF426-Lab 2.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1RxYVackN06v3grIfimR-lynmg465cRBh?usp=drive_link)
+3. Principal Component Analysis (PCA) - for visualization and dimensionality reduction [Lab sheet](https://colab.research.google.com/drive/1ZQzycNC3LIimYQzlGXLTLGK1XIu9N4H1#scrollTo=xizUK2Cl27jV) [Solution Code](https://colab.research.google.com/drive/1DLgQOt6_f2B5YB7_nPwjNcipG3k4yEr3#scrollTo=qb-y1yrk8q3L)
 <!--4. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./l1.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1u0D63QsAp1eq8OdvhYxmzHLx8qGwq67b)
 5. Graph laplacian and connected components <a href="./l2.pdf" target="_blank">Lab sheet</a>, [Code](https://colab.research.google.com/drive/1pt1MbCUynFPaXQ4HuzU45510BJB_F7_v)
 6. Pagerank and teleportation <a href="./l3.pdf" target="_blank">Lab sheet</a>, [Code](https://colab.research.google.com/drive/1KIvKkA4m1yZXdV3szFI-mx2S2mc5mmGK)
