@@ -13,6 +13,7 @@ title: Programming Exercises
 8. Leveraging Cross-Entropy and Supervised Contrastive Loss for classification. [Labsheet](https://drive.google.com/file/d/1-EOJgBlm_427rJwbNtrzVD6hWCycLUXz/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/17OeLTbSMy91dgR62RO_rbrhLdUGg0Ql8?usp=drive_link)
 9. Laplacian-Eigenmap based decoder for link prediction in unirelational graph. [Labsheet](https://drive.google.com/file/d/1jVVG9VXV1Vrp798ZXCPUYtJawbQCr00X/view?usp=drive_link), [Unsolved jupyter file](https://colab.research.google.com/drive/15pGsmQ6Tswe7II0XaxgSCSdpZ6BwoSZl#scrollTo=sM8MYg-EyJkx), [Solution](https://colab.research.google.com/drive/1WeiUX-IJUj1DgtWi_gkMALMCNPjcl3eR)
 10. Rescal decoder model for graph reconstruction in multi-relational graph. [Labsheet](https://drive.google.com/file/d/1QIEDeDNnfKgI5xJglAuHXtK5oGM3c1Kf/view?usp=drive_link), [Unsolved jupyter file](https://drive.google.com/file/d/19ZUKWp32thcFK_9WjbuXK0jEXmTtq6vG/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/1dGgW9H7-intJrZoTs1wK_ZgQ6FoRmidF)
+11. Graph convolutional Networks- Pytorch implementation on Cora dataset- [Labsheet](https://colab.research.google.com/drive/17_9kOEjXLUB-jujuusdLy5kHEE8B8j6_?usp=drive_link), [Solution](https://colab.research.google.com/drive/11C5cLYFFHkN0cVAaKGmUgdtOoPHZTXng?usp=drive_link)
 
 <!--
 4. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./l1.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1u0D63QsAp1eq8OdvhYxmzHLx8qGwq67b)
