@@ -18,7 +18,7 @@ title: Programming Exercises
 13. Generate two half-moon and concentric circles dataset. Then generate similarity graph for concentric circle data. [Labsheet](https://docs.google.com/document/d/1qKjgIuTDM81wBv3kFgszlJTwgIuwxWkN/edit?usp=drive_link&ouid=113751478777075878407&rtpof=true&sd=true), [Solution](https://colab.research.google.com/drive/1Xkx_Tgh4yhHuKc44U6p5oln7F80Cglh9)
 14. Spectral clustering on half moon data, [Labsheet](https://docs.google.com/document/d/1YISfgye6BNgklo-upjidLF9U9tyUrYV2/edit?usp=drive_link&ouid=113751478777075878407&rtpof=true&sd=true), [Solution](https://colab.research.google.com/drive/1UQ1wC42IZrQbePI1Eg17LnYOAR751RYi?usp=drive_link)
 15. Spectral clustering vs Girvan-Newman, [Labsheet](https://colab.research.google.com/drive/1hrZLmyc6FFP8_MAycSIs2BId3djmqM4P?usp=drive_link), [Solution](https://colab.research.google.com/drive/1uCOmN3LScSaL0Gmxcz-UhaUS2v6SVveo)
-16. Similarity graph using K-nearest neighbour approach on half-moon data, [Labsheet](https://drive.google.com/file/d/1pEd8URfai-w7dilRRXUITK5YJ8jGpZLQ/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/1uCOmN3LScSaL0Gmxcz-UhaUS2v6SVveo)
+16. Similarity graph using K-nearest neighbour approach on half-moon data, [Labsheet](https://drive.google.com/file/d/1pEd8URfai-w7dilRRXUITK5YJ8jGpZLQ/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/1kPDVVhHz6fua9Phle3IJK9IUOwbqcwqS)
 17. Random walk, [Labsheet](https://drive.google.com/file/d/1p88WJnjSRbLyMVHfPW3Os5DSqP1L-r_q/view?usp=drive_link)
 <!--
 4. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./l1.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1u0D63QsAp1eq8OdvhYxmzHLx8qGwq67b)
