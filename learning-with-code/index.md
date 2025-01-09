@@ -2,7 +2,6 @@
 layout: post
 title: Programming Exercises
 ---
-
 1. Introduction to python, numpy and pandas (Basic operations)  [Code](https://colab.research.google.com/drive/16ox0uKrTIH8nPzlRiW38VZBcKljgbRSm?usp=drive_link)
 2. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./Graph Mining CSF426-Lab 2.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1RxYVackN06v3grIfimR-lynmg465cRBh?usp=drive_link)
 3. Principal Component Analysis (PCA) - for visualization and dimensionality reduction [Lab material](https://drive.google.com/file/d/1vagy6Jtfcm30C9ZH1aA1dWDbSxCVW1Sp/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/1DLgQOt6_f2B5YB7_nPwjNcipG3k4yEr3#scrollTo=qb-y1yrk8q3L)
