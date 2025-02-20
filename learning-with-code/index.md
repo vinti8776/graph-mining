@@ -1,6 +1,6 @@
----
+<!---
 layout: post
-title: Programming Exercises
+title: Programming Exercises-->
 
 
 
@@ -26,8 +26,8 @@ title: Programming Exercises
 15. Spectral clustering vs Girvan-Newman clustering, [Labsheet](https://colab.research.google.com/drive/1hrZLmyc6FFP8_MAycSIs2BId3djmqM4P?usp=drive_link), [Solution](https://colab.research.google.com/drive/1uCOmN3LScSaL0Gmxcz-UhaUS2v6SVveo)
 16. Similarity graph using K-nearest neighbor, [Labsheet](https://drive.google.com/file/d/1pEd8URfai-w7dilRRXUITK5YJ8jGpZLQ/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/1kPDVVhHz6fua9Phle3IJK9IUOwbqcwqS)
 17. Random walk, [Labsheet](https://drive.google.com/file/d/1p88WJnjSRbLyMVHfPW3Os5DSqP1L-r_q/view?usp=drive_link)
-3. Principal Component Analysis (PCA) - for visualization and dimensionality reduction <a href="./Lab3.pdf" target="_blank"> Lab sheet, </a>
-<!--(https://drive.google.com/file/d/1vagy6Jtfcm30C9ZH1aA1dWDbSxCVW1Sp/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/1DLgQOt6_f2B5YB7_nPwjNcipG3k4yEr3#scrollTo=qb-y1yrk8q3L) -->
+<!--3. Principal Component Analysis (PCA) - for visualization and dimensionality reduction <a href="./Lab3.pdf" target="_blank"> Lab sheet, </a>
+(https://drive.google.com/file/d/1vagy6Jtfcm30C9ZH1aA1dWDbSxCVW1Sp/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/1DLgQOt6_f2B5YB7_nPwjNcipG3k4yEr3#scrollTo=qb-y1yrk8q3L) -->
 <!--    -->
 <!--
 4. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./l1.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1u0D63QsAp1eq8OdvhYxmzHLx8qGwq67b)
