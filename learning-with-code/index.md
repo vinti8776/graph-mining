@@ -4,9 +4,9 @@ title: Programming Exercises
 
 
 
-1. Introduction to python, numpy and pandas (Basic operations) <a href="./Lab1.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/16ox0uKrTIH8nPzlRiW38VZBcKljgbRSm?usp=drive_link)
+1. Introduction to python, numpy and pandas (Basic operations) <a href="./Lab1.pdf" target="_blank"> Lab sheet, </a> <!--(https://colab.research.google.com/drive/16ox0uKrTIH8nPzlRiW38VZBcKljgbRSm?usp=drive_link)-->
 
-2. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./Lab2.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1RxYVackN06v3grIfimR-lynmg465cRBh?usp=drive_link)
+2. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./Lab2.pdf" target="_blank"> Lab sheet, </a> <!--(https://colab.research.google.com/drive/1RxYVackN06v3grIfimR-lynmg465cRBh?usp=drive_link)-->
 
 3. Dimensionality reduction - Comparison of PCA vs Laplacian Eigenmaps. <a href="./Lab3.pdf" target="_blank"> Lab sheet, </a>
 <!--(https://drive.google.com/file/d/11ovahVEaBrrY1OaPkPHXordTL1wUdtj6/view?usp=drive_link), [Solution](https://drive.google.com/file/d/1XC1O1ZBp2pXvD8DvQ6UAAGdF7QnWB2TY/view?usp=drive_link) -->
@@ -20,7 +20,7 @@ title: Programming Exercises
 <!-- [Labsheet](https://drive.google.com/file/d/1jVVG9VXV1Vrp798ZXCPUYtJawbQCr00X/view?usp=drive_link), [Unsolved jupyter file](https://colab.research.google.com/drive/15pGsmQ6Tswe7II0XaxgSCSdpZ6BwoSZl#scrollTo=sM8MYg-EyJkx), [Solution](https://colab.research.google.com/drive/1WeiUX-IJUj1DgtWi_gkMALMCNPjcl3eR) -->
 10. Rescal decoder model for graph reconstruction in multi-relational graph. <a href="./Lab10.pdf" target="_blank"> Lab sheet, </a> <!--[Labsheet](https://drive.google.com/file/d/1QIEDeDNnfKgI5xJglAuHXtK5oGM3c1Kf/view?usp=drive_link), [Unsolved jupyter file](https://drive.google.com/file/d/19ZUKWp32thcFK_9WjbuXK0jEXmTtq6vG/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/1dGgW9H7-intJrZoTs1wK_ZgQ6FoRmidF) -->
 11. Graph convolutional Networks- Pytorch implementation on Cora dataset. <a href="./Lab11.pdf" target="_blank"> Lab sheet, </a> <!-- [Labsheet](https://colab.research.google.com/drive/17_9kOEjXLUB-jujuusdLy5kHEE8B8j6_?usp=drive_link), [Solution](https://colab.research.google.com/drive/11C5cLYFFHkN0cVAaKGmUgdtOoPHZTXng?usp=drive_link) -->
-12. PageRank-with and without teleportation;[Labsheet](https://docs.google.com/document/d/1pvG7QohH_fSxzQbTS2MJAzMG1eDs9SrU/edit?usp=drive_link&ouid=113751478777075878407&rtpof=true&sd=true), [Solution](https://colab.research.google.com/drive/1pxOzcOo1FCBx9cBimgx15NgImWM4id5m)
+12. PageRank-with and without teleportation;<a href="./Lab12.pdf" target="_blank"> Lab sheet, </a> [Labsheet](https://docs.google.com/document/d/1pvG7QohH_fSxzQbTS2MJAzMG1eDs9SrU/edit?usp=drive_link&ouid=113751478777075878407&rtpof=true&sd=true), [Solution](https://colab.research.google.com/drive/1pxOzcOo1FCBx9cBimgx15NgImWM4id5m)
 13. Non-linear data generation and construction of a similarity graph. [Labsheet](https://docs.google.com/document/d/1qKjgIuTDM81wBv3kFgszlJTwgIuwxWkN/edit?usp=drive_link&ouid=113751478777075878407&rtpof=true&sd=true), [Solution](https://colab.research.google.com/drive/1Xkx_Tgh4yhHuKc44U6p5oln7F80Cglh9)
 14. Spectral clustering on half moon data, [Labsheet](https://docs.google.com/document/d/1YISfgye6BNgklo-upjidLF9U9tyUrYV2/edit?usp=drive_link&ouid=113751478777075878407&rtpof=true&sd=true), [Solution](https://colab.research.google.com/drive/1UQ1wC42IZrQbePI1Eg17LnYOAR751RYi?usp=drive_link)
 15. Spectral clustering vs Girvan-Newman clustering, [Labsheet](https://colab.research.google.com/drive/1hrZLmyc6FFP8_MAycSIs2BId3djmqM4P?usp=drive_link), [Solution](https://colab.research.google.com/drive/1uCOmN3LScSaL0Gmxcz-UhaUS2v6SVveo)
