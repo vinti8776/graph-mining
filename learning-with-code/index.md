@@ -9,10 +9,10 @@ title: Programming Exercises
 2. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./Lab2.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1RxYVackN06v3grIfimR-lynmg465cRBh?usp=drive_link)
 
 3. Principal Component Analysis (PCA) - for visualization and dimensionality reduction <a href="./Lab3.pdf" target="_blank"> Lab sheet, </a>
-<---(https://drive.google.com/file/d/1vagy6Jtfcm30C9ZH1aA1dWDbSxCVW1Sp/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/1DLgQOt6_f2B5YB7_nPwjNcipG3k4yEr3#scrollTo=qb-y1yrk8q3L) -->
+<!--(https://drive.google.com/file/d/1vagy6Jtfcm30C9ZH1aA1dWDbSxCVW1Sp/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/1DLgQOt6_f2B5YB7_nPwjNcipG3k4yEr3#scrollTo=qb-y1yrk8q3L) -->
 
 4. Dimensionality reduction - Comparison of PCA vs Laplacian Eigenmaps. [Lab material]<a href="./Lab4.pdf" target="_blank"> Lab sheet, </a>
-<--(https://drive.google.com/file/d/11ovahVEaBrrY1OaPkPHXordTL1wUdtj6/view?usp=drive_link), [Solution](https://drive.google.com/file/d/1XC1O1ZBp2pXvD8DvQ6UAAGdF7QnWB2TY/view?usp=drive_link) -->
+<!--(https://drive.google.com/file/d/11ovahVEaBrrY1OaPkPHXordTL1wUdtj6/view?usp=drive_link), [Solution](https://drive.google.com/file/d/1XC1O1ZBp2pXvD8DvQ6UAAGdF7QnWB2TY/view?usp=drive_link) -->
 
 5. Classification using Label Propagation Algorithm (LPA) [Paper link](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8a6a114d699824b678325766be195b0e7b564705) and Label Spreading Algorithm (LSA) [PaperLink](https://proceedings.neurips.cc/paper_files/paper/2003/file/87682805257e619d49b8e0dfdc14affa-Paper.pdf). Lab sheet [Link](https://drive.google.com/file/d/1dCTK6e3pcGn9AdgtoJV-4kf8tTX-7L6A/view?usp=sharing), Solution [Link](https://colab.research.google.com/drive/1Ga3aayQcq9Hw7-_8reOdtWrDw6FNfOku?usp=drive_link)
 6. Text classification using Correct & Smooth approach based on [research paper](https://arxiv.org/pdf/2010.13993). Lab sheet [Link](https://drive.google.com/file/d/18Vk3OKHrKlCOb1T31rh99d5oNN2tdYBZ/view?usp=sharing), Solution [Link](https://colab.research.google.com/drive/1E10YlLoGfvTty1wqgmcMS4PncWhhRwGI?usp=drive_link)
@@ -27,7 +27,7 @@ title: Programming Exercises
 15. Spectral clustering vs Girvan-Newman clustering, [Labsheet](https://colab.research.google.com/drive/1hrZLmyc6FFP8_MAycSIs2BId3djmqM4P?usp=drive_link), [Solution](https://colab.research.google.com/drive/1uCOmN3LScSaL0Gmxcz-UhaUS2v6SVveo)
 16. Similarity graph using K-nearest neighbor, [Labsheet](https://drive.google.com/file/d/1pEd8URfai-w7dilRRXUITK5YJ8jGpZLQ/view?usp=drive_link), [Solution](https://colab.research.google.com/drive/1kPDVVhHz6fua9Phle3IJK9IUOwbqcwqS)
 17. Random walk, [Labsheet](https://drive.google.com/file/d/1p88WJnjSRbLyMVHfPW3Os5DSqP1L-r_q/view?usp=drive_link)
-    -->
+<!--    -->
 <!--
 4. Introduction to graphs using networkx, eignevectors/eigenvalues computation <a href="./l1.pdf" target="_blank"> Lab sheet, </a> [Code](https://colab.research.google.com/drive/1u0D63QsAp1eq8OdvhYxmzHLx8qGwq67b)
 5. Graph laplacian and connected components <a href="./l2.pdf" target="_blank">Lab sheet</a>, [Code](https://colab.research.google.com/drive/1pt1MbCUynFPaXQ4HuzU45510BJB_F7_v)
